@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddd9e6f3-e41f-46da-aa46-08d6573ac387" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/author.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/author.java" afterDir="false" />
+    <list default="true" id="ddd9e6f3-e41f-46da-aa46-08d6573ac387" name="Changes" comment="första lektionen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +43,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697013151770</updated>
-      <workItem from="1697013153361" duration="1660000" />
+      <workItem from="1697013153361" duration="2825000" />
     </task>
+    <task id="LOCAL−00001" summary="första lektionen">
+      <created>1697437986678</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1697437986679</updated>
+    </task>
+    <task id="LOCAL−00002" summary="första lektionen">
+      <created>1697438025377</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1697438025377</updated>
+    </task>
+    <task id="LOCAL−00003" summary="första lektionen">
+      <created>1697438240980</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1697438240980</updated>
+    </task>
+    <task id="LOCAL−00004" summary="första lektionen">
+      <created>1697438310660</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1697438310660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="första lektionen" />
+    <option name="LAST_COMMIT_MESSAGE" value="första lektionen" />
   </component>
 </project>
